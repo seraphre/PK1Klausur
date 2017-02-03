@@ -8,6 +8,7 @@ public class HelloWorld {
 		
 		System.out.println("Gepushed from Mac");
 		System.out.println("Das gleich nochmal");
+		System.out.println("Das gleiche nochmal");
 
 	}
 
